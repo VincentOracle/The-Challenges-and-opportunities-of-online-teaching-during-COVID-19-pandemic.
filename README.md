@@ -1,0 +1,1 @@
+The main research question of this dissertation is as follows: what challenges and opportunities does the COVID-19 pandemic present to online classes? The purpose of this study is to understand the multifaceted impact of this change process on the educators with special focus on the difficulties encountered and the possibilities identified.
