@@ -13,8 +13,8 @@ A comprehensive research study analyzing the challenges and opportunities of onl
 This research dissertation examines the profound impact of the COVID-19 pandemic on educational systems worldwide, focusing specifically on educators' experiences with the rapid transition to online teaching. The study employs advanced data analysis techniques to uncover key insights into technological barriers, pedagogical adaptations, and psychological impacts on teachers.
 
 ### 🎯 Research Focus
-- **Educator Adaptation**: How teachers transitioned to virtual teaching
-- **Quality Impact**: Effects on teaching quality and student engagement  
+- **Educator Adaptation** - How teachers transitioned to virtual teaching
+- **Quality Impact** - Effects on teaching quality and student engagement  
 - **Technological Barriers**: Infrastructure and access challenges
 - **Psychological Impact**: Stress and mental health considerations
 
