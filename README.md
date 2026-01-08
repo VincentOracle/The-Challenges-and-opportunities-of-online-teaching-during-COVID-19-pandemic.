@@ -1,4 +1,4 @@
-# Online Education During COVID-19:- Challenges & Opportunities 
+# Online Education During COVID-19:- Challenges & Opportunities
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
